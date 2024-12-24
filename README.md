@@ -26,8 +26,8 @@
   - **mfcc\_XX:** Mel Frequency Cepstral Coefficient 1-24  
   - **label:** 0 \= AI generated voice, 1 \= real voice
 
-***Objective*****:**  
+***Objective***:
 We intend to build machine learning models which can successfully classify voice recordings as either AI generated or real human voice. 
 
-***Outcome*****:**  
+***Outcome***:
 Our best model is our RNN model which has an accuracy of 0.9904 and an AUC score of 1.00. Our CNN model is not far behind with an accuracy of 0.9695 and an AUC score of 1.00.  
