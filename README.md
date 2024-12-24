@@ -1,7 +1,7 @@
 # **AI Voice Recognition**
 
 ***Status:*** Finished  
-***Contents*****:**
+***Contents***:
 
 - **01\_data\_preparation.ipynb:** Extract voice features (F0, ZCR, MFCC) using \`librosa\`   
 - **02\_simple\_models.ipynb:** Develop binary classification models using \`sklearn\`.  
